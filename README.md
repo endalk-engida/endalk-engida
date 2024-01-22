@@ -1,3 +1,7 @@
+<h1 align="center">hey there 👋</h1>
+<div align="center">
+  <img height="900" src="https://raw.githubusercontent.com/endalk-engida/hello/main/endalk.jpg"  />
+</div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/endalk-engida/) 
