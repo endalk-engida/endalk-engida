@@ -1,6 +1,6 @@
 <h1 align="center">hey there 👋</h1>
 <div align="center">
-  <img height="1000" src="https://raw.githubusercontent.com/endalk-engida/hello/main/endalk.jpg"  />
+  <img height="900" src="https://raw.githubusercontent.com/endalk-engida/hello/main/endalk.jpg"  />
 </div>
 
 ## 🌐 Socials:
