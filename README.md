@@ -1,4 +1,4 @@
-<div background-color='black">
+
 div align="center">
   <img height="900" src="https://raw.githubusercontent.com/endalk-engida/hello/main/endalk.jpg"  />
 </div>
@@ -50,5 +50,5 @@ div align="center">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
-</div>
+
 ###
